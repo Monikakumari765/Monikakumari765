@@ -5,7 +5,7 @@
 ### Aspiring Software Engineer | BTech Computer Science Student
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Development;Data+Structures+%26+Algorithms;Problem+Solving;Building+Projects+and+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Data+Structures+%26+Algorithms;Problem+Solving;Building+Projects+and+Learning" alt="Typing SVG" />
 </a>
 
 </div>
